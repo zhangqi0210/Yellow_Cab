@@ -16,7 +16,6 @@
 9. [Results and Findings](#results-and-findings)
 10. [Code Snippets](#code-snippets)
 11. [Conclusion and Recommendations](#conclusion-and-recommendations)
-12. [Acknowledgements](#acknowledgements)
 
 ---
 
