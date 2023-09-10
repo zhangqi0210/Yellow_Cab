@@ -129,6 +129,3 @@ The project concludes by summarizing the key findings and proposing data-driven 
 
 ---
 
-## Acknowledgements
-
-Special thanks to all contributors and those whose works were referred to during this project.
