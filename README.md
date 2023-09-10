@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/zhangqi0210/Yellow_Cab/blob/main/LICENSE)
+![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhangqi0210%2FYellow_Cab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Yellow Cab Case Study: Data-Driven Business Insights
 
 ## Table of Contents
@@ -43,7 +46,8 @@ The notebook aligns with the sections outlined in the case document. It's highly
 
 Clone the repository and navigate to the project directory. Install the required Python packages using the following command:
 
-```bash
+```
+bash
 pip install -r requirements.txt
 ```
 
@@ -63,7 +67,8 @@ Data preprocessing involves:
 - **Feature Engineering**: Creating new features that better represent the problem space.
 - **Data Transformation**: Scaling and normalization.
 
-```python
+```
+python
 # Example code snippet for data cleaning
 df.dropna(inplace=True)
 ```
@@ -78,7 +83,8 @@ EDA is performed using various statistical graphics, plots, and information tabl
 - **Correlation Analysis**
 - **Time Series Analysis**
 
-```python
+```
+python
 # Example code snippet for EDA
 import seaborn as sns
 sns.heatmap(df.corr(), annot=True)
