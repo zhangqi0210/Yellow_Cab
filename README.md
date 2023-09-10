@@ -43,9 +43,9 @@ The notebook aligns with the sections outlined in the case document. It's highly
 
 Clone the repository and navigate to the project directory. Install the required Python packages using the following command:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ---
 
@@ -63,10 +63,10 @@ Data preprocessing involves:
 - **Feature Engineering**: Creating new features that better represent the problem space.
 - **Data Transformation**: Scaling and normalization.
 
-\`\`\`python
+```python
 # Example code snippet for data cleaning
 df.dropna(inplace=True)
-\`\`\`
+```
 
 ---
 
@@ -78,11 +78,11 @@ EDA is performed using various statistical graphics, plots, and information tabl
 - **Correlation Analysis**
 - **Time Series Analysis**
 
-\`\`\`python
+```python
 # Example code snippet for EDA
 import seaborn as sns
 sns.heatmap(df.corr(), annot=True)
-\`\`\`
+```
 
 ---
 
@@ -110,10 +110,10 @@ The results are presented in a digestible format supported by:
 
 Here are some key code snippets that showcase the complexity and capabilities of the analysis:
 
-\`\`\`python
+```python
 # Example of a complex query using pandas
 result = df.groupby(['Category'])['Revenue'].sum().reset_index()
-\`\`\`
+```
 
 ---
 
