@@ -44,11 +44,10 @@ The notebook aligns with the sections outlined in the case document. It's highly
 
 ## Installation and Setup
 
-Clone the repository and navigate to the project directory. Install the required Python packages using the following command:
+Clone the repository and navigate to the project directory.
 
 ```
-bash
-pip install -r requirements.txt
+git clone https://github.com/zhangqi0210/Yellow_Cab.git my-project
 ```
 
 ---
