@@ -55,7 +55,7 @@ cd my-project
 
 ## Data Sources
 
-The data for this project is sourced from [describe the source]. It consists of multiple datasets detailing aspects such as [list key datasets features].
+The data for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data).
 
 ---
 
