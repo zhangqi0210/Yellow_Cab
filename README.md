@@ -48,6 +48,7 @@ Clone the repository and navigate to the project directory.
 
 ```
 git clone https://github.com/zhangqi0210/Yellow_Cab.git my-project
+cd my-project
 ```
 
 ---
